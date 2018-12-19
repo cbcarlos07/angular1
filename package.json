@@ -1,0 +1,22 @@
+{
+  "name": "exercicios_angular",
+  "version": "1.0.0",
+  "description": "Curso de node com mongo e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbcarlos07/angular1.git"
+  },
+  "author": "Carlos Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbcarlos07/angular1/issues"
+  },
+  "homepage": "https://github.com/cbcarlos07/angular1#readme",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
